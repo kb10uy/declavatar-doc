@@ -31,25 +31,28 @@
 
 # 定義ファイルの各形式
 
-- [定義ファイル (S 式)](./decl-sexpr/README.md)
-    - [構造](./decl-sexpr/structure.md)
-    - [`da` モジュール](./decl-sexpr/da-module/README.md)
-        - [da/avatar](./decl-sexpr/da-module/avatar.md)
-        - [da/parameters](./decl-sexpr/da-module/parameters.md)
-        - [da/assets](./decl-sexpr/da-module/assets.md)
-        - [da/fx-controller](./decl-sexpr/da-module/fx-controller.md)
-        - [da/menu](./decl-sexpr/da-module/menu.md)
-    - [`da-internal` モジュール](./decl-sexpr/da-internal-module/README.md)
+- [定義ファイル (S 式)](./declaration-file/sexpr/README.md)
+    - [構造](./declaration-file/sexpr/structure.md)
+    - [`da` モジュール](./declaration-file/sexpr/da-module/README.md)
+        - [da/avatar](./declaration-file/sexpr/da-module/avatar.md)
+        - [da/parameters](./declaration-file/sexpr/da-module/parameters.md)
+        - [da/assets](./declaration-file/sexpr/da-module/assets.md)
+        - [da/fx-controller](./declaration-file/sexpr/da-module/fx-controller.md)
+        - [da/menu](./declaration-file/sexpr/da-module/menu.md)
+    - [`da-internal` モジュール](./declaration-file/sexpr/da-internal-module/README.md)
 
 --------
 
 # アバター定義サンプル
 
+- [基本的な例](./declaration-file/examples/basic.md)
+- [発展的な例](./declaration-file/examples/extra.md)
+
 --------
 
 # declavatar を拡張する
 
-- [declavatar コア機能の拡張](./extend-declavatar-core/README.md)
-    - [定義ファイル形式の追加](./extend-declavatar-core/add-format.md)
-    - [操作対象の追加](./extend-declavatar-core/add-target.md)
-- [declavatar 拡張ライブラリの定義](./define-extension-library/README.md)
+- [declavatar コア機能の拡張](./development/core/README.md)
+    - [定義ファイル形式の追加](./development/core/add-format.md)
+    - [操作対象の追加](./development/core/add-target.md)
+- [declavatar 拡張ライブラリの定義](./development/extension-library/README.md)
