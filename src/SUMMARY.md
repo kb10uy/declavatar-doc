@@ -6,15 +6,26 @@
 
 # Unity で利用する
 
-- [インストール](./installation.md)
-- [Unity エディタ拡張](./editor-extension/README.md)
-    - [GenerateByDeclavatar](./editor-extension/generate-by-declavatar.md)
-    - [ExternalAsset](./editor-extension/external-asset.md)
-    - [設定](./editor-extension/settings.md)
+- [インストール](./on-unity-usage/installation.md)
+- [Unity エディタ拡張](./on-unity-usage/editor-extension/README.md)
+    - [GenerateByDeclavatar](./on-unity-usage/editor-extension/generate-by-declavatar.md)
+    - [ExternalAsset](./on-unity-usage/editor-extension/external-asset.md)
+    - [設定](./on-unity-usage/editor-extension/settings.md)
 
 --------
 
-# アバター定義について
+# アバター定義
+
+- [アバター定義とは](./avatar-definition/basic/README.md)
+    - [パラメーター定義](./avatar-definition/basic/parameters.md)
+    - [外部アセット定義](./avatar-definition/basic/assets.md)
+    - [FX Layer 定義](./avatar-definition/basic/fx-controller.md)
+    - [メニュー定義](./avatar-definition/basic/menu.md)
+- [レイヤー](./avatar-definition/layers/README.md)
+    - [Group レイヤー](./avatar-definition/layers/group-layer.md)
+    - [Switch レイヤー](./avatar-definition/layers/switch-layer.md)
+    - [Puppet レイヤー](./avatar-definition/layers/puppet-layer.md)
+    - [Raw レイヤー](./avatar-definition/layers/raw-layer.md)
 
 --------
 
