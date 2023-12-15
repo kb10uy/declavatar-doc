@@ -9,7 +9,7 @@
 - [インストール](./installation.md)
 - [Unity エディタ拡張](./editor-extension/README.md)
     - [GenerateByDeclavatar](./editor-extension/generate-by-declavatar.md)
-    - [ExternalAssets](./editor-extension/external-assets.md)
+    - [ExternalAsset](./editor-extension/external-asset.md)
     - [設定](./editor-extension/settings.md)
 
 --------
