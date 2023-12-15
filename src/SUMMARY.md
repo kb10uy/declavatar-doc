@@ -21,7 +21,7 @@
     - [外部アセット定義](./avatar-definition/basic/assets.md)
     - [FX Layer 定義](./avatar-definition/basic/fx-controller.md)
     - [メニュー定義](./avatar-definition/basic/menu.md)
-- [レイヤー](./avatar-definition/layers/README.md)
+- [アバター定義詳細: レイヤー](./avatar-definition/layers/README.md)
     - [Group レイヤー](./avatar-definition/layers/group-layer.md)
     - [Switch レイヤー](./avatar-definition/layers/switch-layer.md)
     - [Puppet レイヤー](./avatar-definition/layers/puppet-layer.md)
@@ -45,8 +45,8 @@
 
 # アバター定義サンプル
 
-- [基本的な例](./declaration-file/examples/basic.md)
-- [発展的な例](./declaration-file/examples/extra.md)
+- [アバター定義の基本的な例](./declaration-file/examples/basic.md)
+- [アバター定義の発展的な例](./declaration-file/examples/extra.md)
 
 --------
 
