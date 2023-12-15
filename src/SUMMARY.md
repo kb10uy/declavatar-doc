@@ -14,7 +14,11 @@
 
 --------
 
-# 定義ファイルを記述する
+# アバター定義について
+
+--------
+
+# 定義ファイルの各形式
 
 - [定義ファイル (S 式)](./decl-sexpr/README.md)
     - [構造](./decl-sexpr/structure.md)
@@ -28,8 +32,13 @@
 
 --------
 
-# declavatar を拡張する
+# アバター定義サンプル
 
 --------
 
-[このドキュメントについて](./about-documentation.md)
+# declavatar を拡張する
+
+- [declavatar コア機能の拡張](./extend-declavatar-core/README.md)
+    - [定義ファイル形式の追加](./extend-declavatar-core/add-format.md)
+    - [操作対象の追加](./extend-declavatar-core/add-target.md)
+- [declavatar 拡張ライブラリの定義](./define-extension-library/README.md)
