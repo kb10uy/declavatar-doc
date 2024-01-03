@@ -34,12 +34,12 @@
 - [定義ファイル (S 式)](./declaration-file/sexpr/README.md)
     - [構造](./declaration-file/sexpr/structure.md)
     - [`da` モジュール](./declaration-file/sexpr/da-module/README.md)
-        - [da/avatar](./declaration-file/sexpr/da-module/avatar.md)
-        - [da/parameters](./declaration-file/sexpr/da-module/parameters.md)
-        - [da/assets](./declaration-file/sexpr/da-module/assets.md)
-        - [da/fx-controller](./declaration-file/sexpr/da-module/fx-controller.md)
-        - [da/menu](./declaration-file/sexpr/da-module/menu.md)
-    - [`da-internal` モジュール](./declaration-file/sexpr/da-internal-module/README.md)
+        - [アバター定義関数](./declaration-file/sexpr/da-module/avatar.md)
+        - [パラメーター定義関数](./declaration-file/sexpr/da-module/parameters.md)
+        - [アセット定義関数](./declaration-file/sexpr/da-module/assets.md)
+        - [FX Layer 定義関数](./declaration-file/sexpr/da-module/fx-controller.md)
+        - [メニュー定義関数](./declaration-file/sexpr/da-module/menu.md)
+    - [`dain` モジュール](./declaration-file/sexpr/da-internal-module/README.md)
 
 --------
 
